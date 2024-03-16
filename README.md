@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Nick!
+
+### About Me
+- 🌈 I use He/They pronouns
+- 🗽 I live in New York
+- 🌱 I'm currently learning Rust
+- ✏️ I like to make art, bake, and run
+
+Ask me about my Neovim config
 
 <!--
 **nickrodgers42/nickrodgers42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
